@@ -1,5 +1,5 @@
 #  vue-demo-eleme
-使用vue2 + axios +webpack仿饿了么商家详情页
+使用vue2 + axios +webpack仿饿了么商家详情页，本项目是根据[https://github.com/ustbhuangyi/vue-sell](https://github.com/ustbhuangyi/vue-sell)的源码用Vue-cli重新做了一遍。
 ## 环境依赖
 - vue2.0
 - vue-cli
